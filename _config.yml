@@ -10,7 +10,7 @@ hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: /images/header.jpg
 bg_image_secondary: /images/leaf-light-grey.svg
 bg_image_product: /images/leaf.svg
-snipcart_api_key: ''
+snipcart_api_key: '09308f3c17022e62dbdad241d1b4f9a9026c368bafe5a4564f6aec2332b4f0e7'
 palette: default
 palettes:
   default:
